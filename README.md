@@ -24,7 +24,7 @@ The **Fraud Score** (Max 100) is calculated dynamically based on 5 weighted metr
 - **Other:** Normal 🟢
 
 ## 📸 Dashboard Preview
-![Dashboard Showcase](Financial Fraud Risk Dashboard.jpg)
+![Employee-Financial-Fraud-Analysis](Financial Fraud Risk Dashboard.jpg)
 
 How to Run the Project
 1. Clone this repository.
