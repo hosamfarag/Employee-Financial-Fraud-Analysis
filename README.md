@@ -25,8 +25,7 @@ The **Fraud Score** (Max 100) is calculated dynamically based on 5 weighted metr
 
 ## 📸 Dashboard Preview
 ![Dashboard Showcase](Screenshots/Financial Fraud Risk Dashboard.jpg)
-
-## 🚀 How to Run the Project
+How to Run the Project
 1. Clone this repository.
 2. Download the `.pbix` file from the `PowerBI-File` folder.
 3. Open it using Power BI Desktop.
